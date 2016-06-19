@@ -1,13 +1,11 @@
 Longitudinal Data Analysis Class, Summer 2016
 =========================================
 
-Summer Semester, 2016
-
-### Directed Reading, May 9 to July 8 (9 weeks)
+### Directed Reading, 9 weeks
 
 ### Instructor: William Beasley, Ph. D.
     Email: wibeasley@hotmail.com
-    Office Hours: TBD
+    Office Hours: Monday mornings
     
 ### Prerequisite
 1. Knowledge of Multivariate statistics and matrix algebra
